@@ -18,7 +18,7 @@ I'm a passionate software developer specializing in AI systems, full-stack web d
 - Open-source PRs: [BotHive](https://github.com/rishabh3562/BotHive), [ServiceNowDevProgram](https://github.com/ServiceNowDevProgram/code-snippets)
 - **My Hacktoberfest & Holopin Badges:**
 
-  [![@Shashank0701-byte's Holopin board](https://holopin.io/api/user/board?user=Shashank0701-byte)](https://holopin.io/@Shashank0701-byte)
+  [![@Shashank0701-byte's Holopin board](https://www.holopin.io/@shashank0701byte#badges)](https://www.holopin.io/@shashank0701byte#badges)
 
 ## 📚 Featured Projects
 - [Portfolio Site](https://github.com/Shashank0701-byte/my-portfolio)
