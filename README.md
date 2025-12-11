@@ -17,7 +17,7 @@ Also completed 2025's Hacktoberfest with 13 Accepted Pull Requests
 
 
 #📊 Leetcode Stats: 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/shashankchakraborty712005?theme=nord)](https://leetcode.com/shashankchakraborty712005)
+<br><br>[![Leetcode Stats](https://leetcard.jacoblin.cool/shashankchakraborty712005?theme=nord)](https://leetcode.com/shashankchakraborty712005)
 
 
 # 📊 GitHub Stats:
