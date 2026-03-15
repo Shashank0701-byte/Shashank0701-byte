@@ -117,7 +117,16 @@ DriftGuard — Infrastructure drift detection engine
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shashank0701-byte?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/shashankchakraborty712005/)
+![Solved](https://img.shields.io/badge/Solved-301-brightgreen?style=flat-square&logo=leetcode&logoColor=white)
+![Knight](https://img.shields.io/badge/Level-Knight-gold?style=flat-square&logo=leetcode&logoColor=white)
+![Rating](https://img.shields.io/badge/Contest_Rating-1982-orange?style=flat-square&logo=leetcode&logoColor=white)
+![Ranking](https://img.shields.io/badge/Top-2.76%25-blue?style=flat-square&logo=leetcode&logoColor=white)
+
+</div>
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/shashankchakraborty712005?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/shashankchakraborty712005)
 
 </div>
 
