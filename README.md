@@ -117,7 +117,7 @@ DriftGuard — Infrastructure drift detection engine
 
 <div align="center">
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shashank0701-byte?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Shashank0701-byte)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shashank0701-byte?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/u/shashankchakraborty712005/)
 
 </div>
 
