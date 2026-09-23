@@ -151,19 +151,33 @@ Compares live Docker/Kubernetes environments against Git-managed config and flag
 
 ---
 
-### 📊 `$ uptime` — stats that actually mean something
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashank0701-byte&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank0701-byte&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</div>
+### 🧠 `$ leetcode` — solving problems, one bug at a time
 
 <div align="center">
 
-![Solved](https://img.shields.io/badge/LeetCode-301_solved-brightgreen?style=flat-square&logo=leetcode&logoColor=white)
-![Knight](https://img.shields.io/badge/Level-Knight-gold?style=flat-square&logo=leetcode&logoColor=white)
-![Rating](https://img.shields.io/badge/Rating-1982-orange?style=flat-square&logo=leetcode&logoColor=white)
+<a href="https://leetcode.com/u/shashankchakraborty712005/">
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetpulse-api.vercel.app%2Fapi%2Fleetcode%2Fsolved%2Fshashankchakraborty712005&query=%24.solvedProblem&label=LeetCode&style=flat-square&logo=leetcode&logoColor=white&color=brightgreen&cacheSeconds=300" alt="LeetCode solved" />
+
+<img src="https://img.shields.io/badge/Level-Knight-gold?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Knight" />
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetpulse-api.vercel.app%2Fapi%2Fleetcode%2Fcontest%2Fshashankchakraborty712005&query=%24.contestRating&label=Rating&style=flat-square&logo=leetcode&logoColor=white&color=orange&cacheSeconds=300" alt="LeetCode rating" />
+
 ![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_2025-13_PRs_merged-blueviolet?style=flat-square&logo=hacktoberfest&logoColor=white)
+
+</a>
+
+<br><br>
+
+<a href="https://leetcode.com/u/shashankchakraborty712005/">
+
+<img
+  src="https://leetcard.jacoblin.cool/shashankchakraborty712005?theme=dark&ext=heatmap"
+  width="700"
+  alt="Shashank's LeetCode Stats"
+/>
+
+</a>
 
 </div>
 
