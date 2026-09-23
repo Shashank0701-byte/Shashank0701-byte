@@ -9,8 +9,6 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 ```
 
-# Shashank Chakraborty
-
 ### Backend Engineer · DevOps · Cloud Security
 
 Building reliable backend systems, resilient infrastructure, and security tools for the cloud.
