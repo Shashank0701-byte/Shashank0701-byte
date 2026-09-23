@@ -16,12 +16,23 @@ Building reliable backend systems, resilient infrastructure, and security tools 
 
 ## 👋 About Me
 
-I’m a backend engineer interested in building maintainable, secure, and scalable systems. My work combines backend development with cloud infrastructure, DevOps automation, and practical security engineering.
+I’m a backend engineer focused on building maintainable, secure, and scalable systems. I combine backend development with cloud infrastructure, DevOps automation, and practical security engineering.
+
+I’m interested in **backend engineering, platform engineering, DevOps, and cloud-security internships or early-career opportunities** where I can contribute to production-focused systems and continue learning from experienced teams.
 
 - 🔧 Building APIs, asynchronous processing pipelines, and developer tools
 - ☁️ Working with AWS, Docker, Kubernetes, and GitHub Actions
 - 🔐 Exploring cloud security, IAM analysis, and infrastructure reliability
 - 🧠 Interested in distributed systems, observability, and AI-assisted engineering
+
+---
+
+## 💼 What I Bring
+
+- **Backend development:** API design, asynchronous workers, data processing, and service integration
+- **Cloud and DevOps:** Containerized applications, CI/CD workflows, infrastructure automation, and deployment practices
+- **Security mindset:** AWS IAM analysis, privilege-escalation detection, and secure-by-default design
+- **Builder mentality:** End-to-end projects with practical use cases, clear documentation, and iterative delivery
 
 ---
 
@@ -42,7 +53,7 @@ An infrastructure drift detection engine that compares live environments against
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
+| Project | What it demonstrates | Stack |
 |---|---|---|
 | [**Shadow Permission Analyzer**](https://github.com/Shashank0701-byte/Shadow-permission-analyser) | Analyzes AWS IAM relationships to identify privilege-escalation paths and risky permissions | Python · Neo4j · FastAPI · boto3 |
 | [**SystemCraft**](https://github.com/Shashank0701-byte/system-craft) | Interactive system-design practice platform with AI-generated evaluation and feedback | Next.js · MongoDB · Gemini · Docker |
@@ -91,11 +102,10 @@ An infrastructure drift detection engine that compares live environments against
 
 ## 🏆 Highlights
 
-- 🎯 1000+ contributions recorded in a year
-- 🔥 238 commits recorded in November 2025
-- 🌍 13 accepted pull requests during Hacktoberfest 2024
+- 🌍 13 accepted pull requests during Hacktoberfest 2025
 - 🤝 Contributor to BotHive, ServiceNowDevProgram, and OpenLake
 - ⚡ Active member of Vertex Club and HACKMANV8
+- 🔐 Built projects focused on AWS security, system design, and document automation
 - 🏅 GitHub achievements include Pull Shark, YOLO, Quickdraw, and Pair Extraordinaire
 
 ---
