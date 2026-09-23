@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SHASHANK.EXE&fontSize=60&animation=fadeIn&fontAlignY=35&desc=backend%20%2F%20devops%20%2F%20cloud%20security&descAlignY=58&descSize=20&fontColor=ffffff" width="100%"/>
+```ascii
+███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
+██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝
+███████╗███████║███████║███████╗███████║███████║██╔██╗ ██║█████╔╝ 
+╚════██║██╔══██║██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║██╔═██╗ 
+███████║██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+```
 
-</div>
 
 <div align="center">
 
