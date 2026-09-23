@@ -1,143 +1,169 @@
 <div align="center">
 
-```ascii
-███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
-██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝
-███████╗███████║███████║███████╗███████║███████║██╔██╗ ██║█████╔╝ 
-╚════██║██╔══██║██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║██╔═██╗ 
-███████║██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=SHASHANK.EXE&fontSize=60&animation=fadeIn&fontAlignY=35&desc=backend%20%2F%20devops%20%2F%20cloud%20security&descAlignY=58&descSize=20&fontColor=ffffff" width="100%"/>
 
-### Backend Engineer · DevOps · Cloud Security
+</div>
 
-Building reliable backend systems, resilient infrastructure, and security tools for the cloud.
+<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shashank-portfolio-snowy.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashank-chakraborty/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashankchakraborty712005@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00FF9C&center=true&multiline=true&width=750&height=140&lines=BOOTING+shashank_os+v4.2.0...;%5B+OK+%5D+Loading+kernel+modules%3A+backend%2C+devops%2C+security;%5B+OK+%5D+Mounting+%2Fdev%2Fcuriosity+read-write;%5B+OK+%5D+Starting+service%3A+ship-things.daemon;%5B+WARN+%5D+Sleep+schedule+not+found%2C+using+default%3A+never;%5B+DONE+%5D+System+ready.+Welcome+back%2C+human." alt="boot sequence" />
 
+</div>
+
+<p align="center">
+  <a href="https://shashank-portfolio-snowy.vercel.app/"><img src="https://img.shields.io/badge/portfolio-visit-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shashank-chakraborty/"><img src="https://img.shields.io/badge/linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shashankchakraborty712005@gmail.com"><img src="https://img.shields.io/badge/email-message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<h3 align="center">🐍 something's eating my commit history</h3>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="snake eating contribution graph" src="dist/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</div>
+
+<p align="center"><sub>⚙️ auto-generated nightly by GitHub Actions — see setup below</sub></p>
+
+---
+
+<h3 align="center">🧊 my contributions, but make it 3D</h3>
+
+<div align="center">
+<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph" />
 </div>
 
 ---
 
-## 👋 About Me
+### `$ kubectl get engineer shashank -o yaml`
 
-I’m a backend engineer focused on building maintainable, secure, and scalable systems. I combine backend development with cloud infrastructure, DevOps automation, and practical security engineering.
-
-I’m interested in **backend engineering, platform engineering, DevOps, and cloud-security internships or early-career opportunities** where I can contribute to production-focused systems and continue learning from experienced teams.
-
-- 🔧 Building APIs, asynchronous processing pipelines, and developer tools
-- ☁️ Working with AWS, Docker, Kubernetes, and GitHub Actions
-- 🔐 Exploring cloud security, IAM analysis, and infrastructure reliability
-- 🧠 Interested in distributed systems, observability, and AI-assisted engineering
+```yaml
+apiVersion: v1
+kind: Engineer
+metadata:
+  name: shashank-chakraborty
+  location: bengaluru-in
+  status: fourth-year-student
+spec:
+  focus: [backend-engineering, devops-automation, cloud-security]
+  currentlyBuilding: infrastructure-drift-detection-engine
+  personality: >
+    Will rebuild a working CI/CD pipeline for a 6-minute improvement.
+    Reads incident postmortems for fun. Cannot leave a sequential
+    pipeline alone — will parallelize it out of principle.
+status:
+  uptime: "since 2023"
+  lastIncident: "shipped instead of sleeping"
+  reliability: "measured, not assumed"
+```
 
 ---
 
-## 💼 What I Bring
+### 📡 skill radar
 
-- **Backend development:** API design, asynchronous workers, data processing, and service integration
-- **Cloud and DevOps:** Containerized applications, CI/CD workflows, infrastructure automation, and deployment practices
-- **Security mindset:** AWS IAM analysis, privilege-escalation detection, and secure-by-default design
-- **Builder mentality:** End-to-end projects with practical use cases, clear documentation, and iterative delivery
+<div align="center">
+<img src="https://quickchart.io/chart?width=500&height=350&backgroundColor=%23161b22&c={type:'radar',data:{labels:['Backend','DevOps','Security','Databases','Testing','Systems'],datasets:[{label:'Shashank',data:[9,8,7,8,7,6],backgroundColor:'rgba(0,255,156,0.25)',borderColor:'%2300FF9C',pointBackgroundColor:'%2300FF9C'}]},options:{legend:{display:false},scale:{ticks:{display:false,beginAtZero:true,max:10},pointLabels:{fontColor:'%23e6edf3',fontSize:14},angleLines:{color:'%23444'},gridLines:{color:'%23444'}}}}" alt="skill radar chart" />
+</div>
 
 ---
 
-## 🔭 Current Focus
+### 🛰️ `$ terraform plan` — current infra
 
-### DriftGuard
+```mermaid
+graph TD
+    A[Shashank] --> B[Backend APIs]
+    A --> C[DevOps & Infra]
+    A --> D[Cloud Security]
+    B --> B1[FastAPI / Flask / Node.js]
+    B --> B2[Async pipelines - Celery / Redis]
+    C --> C1[Docker + Kubernetes + HPA]
+    C --> C2[CI/CD - GitHub Actions]
+    C --> C3[Observability - Prometheus / Grafana]
+    D --> D1[AWS IAM graph analysis]
+    D --> D2[Privilege escalation detection]
+```
 
-An infrastructure drift detection engine that compares live environments against Git-managed configuration.
+---
 
-- Detects configuration drift across Docker and Kubernetes environments
-- Produces actionable change reports
-- Designed for CI/CD and scheduled compliance checks
-- Status: `Planning`
+### 📟 `$ git log --oneline --graph --decorate` — highlight reel
+
+```
+* a1b2c3d (SystemCraft) parallelize CI/CD pipeline
+|         → 10min sequential → under 4min, fixed artifact-integrity bug too
+* 9f8e7d6 (SystemCraft) k6 load test @ 500 concurrent users
+|         → p95 latency 3.33s → 861ms (-74%), throughput +161%
+* 4c5d6e7 (Shadow Permission Analyzer) BFS/DFS on AWS IAM graph
+|         → detects multi-hop privilege escalation chains in Neo4j
+* 2b3c4d5 (DocuFlow) event-driven invoice pipeline
+|         → async workers cut processing time by 40%
+* 1a2b3c4 (Hackman) 24hr national hackathon, team ClarityAI
+          → top 10, agentic decision-intelligence tool
+```
+
+---
+
+### 📦 featured deploys
+
+<details>
+<summary><b>SystemCraft</b> — real-time system design simulator (<a href="https://www.system-craft.me/">live</a> · <a href="https://github.com/Shashank0701-byte/system-craft">repo</a>)</summary>
+<br>
+
+Built to answer one question: does my infra work under load, or does it just look like it does? Kubernetes HPA, a CI/CD pipeline I tore apart and rebuilt for speed, and a Gemini-powered evaluation engine with race-condition handling on concurrent AI calls.
+
+**Stack:** Next.js · MongoDB · Kubernetes · GitHub Actions · Prometheus/Grafana · k6
+
+</details>
+
+<details>
+<summary><b>Shadow Permission Analyzer</b> — AWS IAM privilege-escalation detector (<a href="https://github.com/Shashank0701-byte/Shadow-permission-analyser">repo</a>)</summary>
+<br>
+
+Models IAM identities as a graph instead of a flat policy list, because privilege escalation is a *path* problem, not a single-permission problem. BFS/DFS traversal finds multi-hop chains a manual audit would miss.
+
+**Stack:** Python · Neo4j · FastAPI · boto3 · pytest
+
+</details>
+
+<details>
+<summary><b>DocuFlow</b> — event-driven invoice pipeline (<a href="https://github.com/Shashank0701-byte/docuflow">repo</a>)</summary>
+<br>
+
+OCR parsing and data extraction split into independently scalable workers, because a single fat script is not a pipeline. 40% faster processing through async orchestration.
+
+**Stack:** Python · Celery · Redis · PostgreSQL
+
+</details>
+
+<details>
+<summary><b>🚧 DriftGuard</b> — infra drift detection engine (<i>planning</i>)</summary>
+<br>
+
+Compares live Docker/Kubernetes environments against Git-managed config and flags what quietly changed underneath you. Because "it worked when I deployed it" is not a monitoring strategy.
 
 **Planned stack:** Python · FastAPI · Docker · Kubernetes · GitHub Actions
 
----
-
-## 🚀 Featured Projects
-
-| Project | What it demonstrates | Stack |
-|---|---|---|
-| [**Shadow Permission Analyzer**](https://github.com/Shashank0701-byte/Shadow-permission-analyser) | Analyzes AWS IAM relationships to identify privilege-escalation paths and risky permissions | Python · Neo4j · FastAPI · boto3 |
-| [**SystemCraft**](https://github.com/Shashank0701-byte/system-craft) | Interactive system-design practice platform with AI-generated evaluation and feedback | Next.js · MongoDB · Gemini · Docker |
-| [**DocuFlow**](https://github.com/Shashank0701-byte/docuflow) | Event-driven invoice-processing pipeline with asynchronous workers and persistent storage | Python · Celery · Redis · PostgreSQL |
-
-> Visit the individual repositories for implementation details, setup instructions, and project documentation.
+</details>
 
 ---
 
-## 🛠️ Core Technologies
-
-**Backend:** Python, FastAPI, Flask, Node.js, Express  
-**Databases:** PostgreSQL, MongoDB, Redis, Neo4j, MySQL  
-**Cloud & Infrastructure:** AWS, Docker, Kubernetes, Nginx, GitHub Actions  
-**Frontend:** JavaScript, Next.js  
-**Systems:** C, C++, x86 Assembly  
-
-### Technology Badges
-
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
----
-
-## 🧭 Engineering Focus
-
-- Designing maintainable and well-documented backend APIs
-- Automating infrastructure and deployment workflows
-- Building secure-by-default cloud systems
-- Improving reliability through testing, observability, and CI/CD
-- Applying graphs and AI to developer and security tooling
-
----
-
-## 🏆 Highlights
-
-- 🌍 13 accepted pull requests during Hacktoberfest 2025
-- 🤝 Contributor to BotHive, ServiceNowDevProgram, and OpenLake
-- ⚡ Active member of Vertex Club and HACKMANV8
-- 🔐 Built projects focused on AWS security, system design, and document automation
-- 🏅 GitHub achievements include Pull Shark, YOLO, Quickdraw, and Pair Extraordinaire
-
----
-
-## 📊 GitHub Stats
+### 📊 `$ uptime` — stats that actually mean something
 
 <div align="center">
-
-<img height="160" alt="Shashank's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Shashank0701-byte&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" alt="Shashank's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank0701-byte&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shashank0701-byte&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank0701-byte&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
----
-
-## 📈 LeetCode
-
 <div align="center">
 
-![Solved](https://img.shields.io/badge/Solved-301-brightgreen?style=flat-square&logo=leetcode&logoColor=white)
+![Solved](https://img.shields.io/badge/LeetCode-301_solved-brightgreen?style=flat-square&logo=leetcode&logoColor=white)
 ![Knight](https://img.shields.io/badge/Level-Knight-gold?style=flat-square&logo=leetcode&logoColor=white)
-![Rating](https://img.shields.io/badge/Contest_Rating-1982-orange?style=flat-square&logo=leetcode&logoColor=white)
-![Ranking](https://img.shields.io/badge/Top-2.76%25-blue?style=flat-square&logo=leetcode&logoColor=white)
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/shashankchakraborty712005?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/shashankchakraborty712005)
+![Rating](https://img.shields.io/badge/Rating-1982-orange?style=flat-square&logo=leetcode&logoColor=white)
+![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest_2025-13_PRs_merged-blueviolet?style=flat-square&logo=hacktoberfest&logoColor=white)
 
 </div>
 
@@ -145,8 +171,12 @@ An infrastructure drift detection engine that compares live environments against
 
 <div align="center">
 
-> always be shipping
+```
+$ echo "always be shipping" >> /etc/motd
+```
 
-![Profile views](https://komarev.com/ghpvc/?username=Shashank0701-byte&color=0e75b6&style=flat-square&label=profile+views)
+![Profile views](https://komarev.com/ghpvc/?username=Shashank0701-byte&color=00FF9C&style=flat-square&label=visits)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
