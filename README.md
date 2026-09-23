@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00FF9C&center=true&multiline=true&width=750&height=140&lines=BOOTING+shashank_os+v4.2.0...;%5B+OK+%5D+Loading+kernel+modules%3A+backend%2C+devops%2C+security;%5B+OK+%5D+Mounting+%2Fdev%2Fcuriosity+read-write;%5B+OK+%5D+Starting+service%3A+ship-things.daemon;%5B+WARN+%5D+Sleep+schedule+not+found%2C+using+default%3A+never;%5B+DONE+%5D+System+ready.+Welcome+back%2C+human." alt="boot sequence" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=600&color=00FF9C&center=true&multiline=true&width=800&height=260&lines=BOOTING+shashank_os+v4.2.0...;%5B+OK+%5D+Loading+kernel+modules%3A+backend%2C+devops%2C+security;%5B+OK+%5D+Mounting+%2Fdev%2Fcuriosity+read-write;%5B+OK+%5D+Starting+service%3A+ship-things.daemon;%5B+WARN+%5D+Sleep+schedule+not+found%2C+using+default%3A+never;%5B+DONE+%5D+System+ready.+Welcome+back%2C+human." alt="boot sequence" />
 
 </div>
 
