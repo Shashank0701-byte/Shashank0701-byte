@@ -24,17 +24,17 @@
 
 ---
 
-<h3 align="center">🐍 something's eating my commit history</h3>
+<!-- <h3 align="center">🐍 something's eating my commit history</h3> -->
 
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
   <img alt="snake eating contribution graph" src="dist/github-contribution-grid-snake.svg" width="100%" />
 </picture>
-</div>
+</div> -->
 
-<p align="center"><sub>⚙️ auto-generated nightly by GitHub Actions — see setup below</sub></p>
+<!-- <p align="center"><sub>⚙️ auto-generated nightly by GitHub Actions — see setup below</sub></p> -->
 
 ---
 
